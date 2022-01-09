@@ -10,8 +10,10 @@ June Weather
 
 •The descriptive stats for the December temperature in Hawaii can be viewed: https://github.com/julianadvds/surfs_up/blob/main/Resources/Dec_weather_data.png
 
-•The average temperature is about 3 degrees F cooler in December than in June\n
-•There is an 8 degree difference in the minimum temperature between June(64 degree F) and December, there is only a 2 degree temperature difference in maximum from June (85 degrees F) to December (83 degrees F)\n
+•The average temperature is about 3 degrees F cooler in December than in June
+
+•There is an 8 degree difference in the minimum temperature between June(64 degree F) and December, there is only a 2 degree temperature difference in maximum from June (85 degrees F) to December (83 degrees F)
+
 •The median temperature in December (71 degrees F) is 4 degrees lower than the median temperature in June (75 degrees F)
 
 ## Summary
